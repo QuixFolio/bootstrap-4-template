@@ -34,6 +34,11 @@
             "page": "index.html",
             "default": ""
         },
+        "intrestsText": {
+            "type": "textarea",
+            "page": "index.html",
+            "default": ""
+        },
         "experiences": {
             "type": "array",
             "page": "index.html",
