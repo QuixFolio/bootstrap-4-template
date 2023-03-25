@@ -24,6 +24,11 @@
             "page": "index.html",
             "default": ""
         },
+        "email": {
+            "type": "email",
+            "page": "index.html",
+            "default": ""
+        },
         "aboutText": {
             "type": "textarea",
             "page": "index.html",
