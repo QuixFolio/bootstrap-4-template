@@ -52,7 +52,7 @@
                     "default": ""
                 },
                 "description": {
-                    "type": "string",
+                    "type": "textarea",
                     "default": ""
                 },
                 "startDate": {
@@ -104,7 +104,7 @@
                     "default": ""
                 },
                 "description": {
-                    "type": "string",
+                    "type": "textarea",
                     "default": ""
                 },
                 "github": {
