@@ -2,6 +2,7 @@
     "id": "bootstrap-4-template",
     "name": "Bootstrap 4 Template",
     "description": "A Bootstrap 4 template for your resume.",
+    "tags":["bootstrap"],
     "image": "image.png",
     "schema": {
         "firstName": {
